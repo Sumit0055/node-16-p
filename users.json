@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Nicolis",
+        "last_name": "Stebbings",
+        "email": "nstebbings0@yandex.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Robbi",
+        "last_name": "Risebarer",
+        "email": "rrisebarer1@sourceforge.net",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Asher",
+        "last_name": "Tort",
+        "email": "atort2@wix.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Max",
+        "last_name": "Glide",
+        "email": "mglide3@cnet.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Rad",
+        "last_name": "Barkworth",
+        "email": "rbarkworth4@mediafire.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Geoff",
+        "last_name": "Lebarree",
+        "email": "glebarree5@addtoany.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Beckie",
+        "last_name": "Chastney",
+        "email": "bchastney6@independent.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Myrta",
+        "last_name": "Davley",
+        "email": "mdavley7@yelp.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Bjorn",
+        "last_name": "Haliburn",
+        "email": "bhaliburn8@nbcnews.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Lizzie",
+        "last_name": "Senescall",
+        "email": "lsenescall9@craigslist.org",
+        "gender": "Female"
+    }
+]
